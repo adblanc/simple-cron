@@ -33,6 +33,13 @@
   },
   "name": "@ablanc/simple-cron",
   "author": "Adrien Blanc",
+  "repository": "adblanc/simple-cron",
+  "keywords": [
+    "cron",
+    "reccurence",
+    "cron-builder",
+    "cron string"
+  ],
   "publishConfig": {
     "access": "public"
   },
