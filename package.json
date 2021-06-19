@@ -33,6 +33,9 @@
   },
   "name": "@ablanc/simple-cron",
   "author": "Adrien Blanc",
+  "publishConfig": {
+    "access": "public"
+  },
   "module": "dist/simple-cron.esm.js",
   "size-limit": [
     {
